@@ -1,3 +1,10 @@
-The Greatest Pleasures in life are Free
 
-Walter Bagehot
+The world wide web differs from the internet because the world wide web consists of many utilitys such as online markets, road maps, and nearby locations. Where as the Internet is more so a network connexting computers and flying emails.
+
+The Internet functions on relationship between IP and TCP, in other words Internet Protocall and Transport Control Protocall. These two functions can travel information quick and safely.
+
+A directory can be compared to a file or drawer, its a cataloging system that contains references to other computer files.
+
+A VCS is a tool we can use to help remember all the changes we have made. This will help me down the road by giving me a history of all the changes Ive made so if i need to go back and change anything I can see exactly where.
+
+My favorite kind of art is music. I listens to hours of music each day and I think music has made me the person I am today.
